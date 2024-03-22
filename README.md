@@ -7,5 +7,5 @@
 ## Vercel: https://advicegentwo.vercel.app/
 
 
-## Peer Reviewer:
-## Peer Review:
+## Peer Reviewer: Aiden Foo
+## Peer Review: The work looks good and the responsiveness works on desktop and mobile. The only discrepency between the reference images is the font of the advice in your app is times new roman while I think the font is Inter instead. 
